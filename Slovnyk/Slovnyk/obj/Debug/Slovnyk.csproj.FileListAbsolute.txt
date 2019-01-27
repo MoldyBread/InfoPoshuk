@@ -1,0 +1,9 @@
+D:\STUDIES\IP\Slovnyk\Slovnyk\bin\Debug\Slovnyk.exe.config
+D:\STUDIES\IP\Slovnyk\Slovnyk\bin\Debug\Slovnyk.exe
+D:\STUDIES\IP\Slovnyk\Slovnyk\bin\Debug\Slovnyk.pdb
+D:\STUDIES\IP\Slovnyk\Slovnyk\obj\Debug\Slovnyk.exe
+D:\STUDIES\IP\Slovnyk\Slovnyk\obj\Debug\Slovnyk.pdb
+D:\STUDIES\IP\Slovnyk\Slovnyk\obj\Debug\Slovnyk.csproj.GenerateResource.Cache
+D:\STUDIES\IP\Slovnyk\Slovnyk\obj\Debug\Slovnyk.csprojAssemblyReference.cache
+D:\STUDIES\IP\Slovnyk\Slovnyk\obj\Debug\Slovnyk.csproj.CoreCompileInputs.cache
+D:\STUDIES\IP\Slovnyk\Slovnyk\obj\Debug\Slovnyk.FormMatrix.resources
